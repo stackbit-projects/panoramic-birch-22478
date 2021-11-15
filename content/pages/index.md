@@ -64,6 +64,7 @@ sections:
       - content/pages/blog/post-one.md
       - content/pages/blog/post-four.md
       - content/pages/blog/post-five.md
+      - content/pages/blog/function-of-design.md
       - content/pages/blog/postlayout-2inqd9bub.md
       - content/pages/blog/post-six.md
     styles:
