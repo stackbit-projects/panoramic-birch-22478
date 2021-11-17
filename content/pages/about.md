@@ -566,7 +566,7 @@ sections:
       type: FormBlock
       elementId: contact-form
       action: /functions/submission_created
-      destination: ''
+      destination: artem@stackbit.com
       fields:
         - type: TextFormControl
           name: name
