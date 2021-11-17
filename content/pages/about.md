@@ -3,7 +3,7 @@ title: About us
 sections:
   - type: HeroSection
     title: Our story
-    text: >
+    text: >+
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus vel
       venenatis augue. Suspendisse tincidunt, nibh eget sodales eleifend, lectus
       magna elementum lorem, ut bibendum tellus turpis quis risus. Sagittis enim
@@ -11,7 +11,8 @@ sections:
 
 
       In sollicitudin imperdiet turpis quis accumsan. Pellentesque euismod
-      turpis et nisi fermentum accumsan.
+      turpis et nisi fermentum accumsan!!!
+
     feature:
       type: ImageBlock
       url: /images/about.jpg
@@ -565,7 +566,7 @@ sections:
       type: FormBlock
       elementId: contact-form
       action: /functions/submission_created
-      destination: ''
+      destination: artem@stackbit.com
       fields:
         - type: TextFormControl
           name: name
